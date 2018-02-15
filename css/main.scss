@@ -45,14 +45,15 @@ $on-laptop:        1200px;
 //
 // My Section of code:
 //
-
+body {
+   background-color: #191919;
+}
   .jumbotron {
   text-align: center;
   display: flex;
   align-items: center;  
   background-image: url('../css/image4.jpg');
-  background-size: cover;
-  background-color: #191919;    
+  background-size: cover;      
   color: #ffffff;
   height: 400px;
   width: 1200px;    
