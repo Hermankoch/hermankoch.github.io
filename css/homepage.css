@@ -1,11 +1,10 @@
-//
-// My Section of code:
-//
 body {
    background-color: #191919;
+   font-weight: 300;
 }
   .jumbotron {
   text-align: center;
+     background-color: #191919;
   display: flex;
   align-items: center;  
   background-image: url('../css/image4.jpg');
