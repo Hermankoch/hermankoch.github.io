@@ -20,14 +20,16 @@ body {
      font-weight: 700;
      margin: 0;
      color: #fff;
-     text-shadow: 1px -1px 0 #191919,
-    1px -1px 0 #191919,
+    
+     text-shadow: 
+     1px -1px 0 #191919,
+     1px -1px 0 #191919,
     -1px 1px 0 #191919,
-    1px 1px 0 #191919,  
+     1px 1px 0 #191919,  
     -2px 0 0 #191919,
-    2px 0 0 #191919,
-    0 2px 0 #191919,
-    0 -2px 0 #191919;     
+     2px 0 0 #191919,
+     0 2px 0 #191919,
+     0 -2px 0 #191919;     
 }
 
  .jumbotron h3 {
@@ -36,6 +38,17 @@ body {
      font-weight: 350;
      margin: 0;
      color: #fff;
+     
+     text-shadow:         
+     1px -1px 0 #191919,
+     1px -1px 0 #191919,
+    -1px 1px 0 #191919,
+     1px 1px 0 #191919,  
+    -2px 0 0 #191919,
+     2px 0 0 #191919,
+     0 2px 0 #191919,
+     0 -2px 0 #191919; 
+    
 }
 
 .OutlineText {
