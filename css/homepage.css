@@ -95,10 +95,10 @@ body {
 	float: left;
 	width: 36px;
 	height: 36px;
-	border: 1px solid #123fe2;
+	border: 1px solid #909090;
 	border-radius: 100%;
-	margin-right: 7px; /*space between*/
-	color: blue;
+	margin-right: 7px; 
+	color: #fff;
 
 } 
 .sosial-links a i{
