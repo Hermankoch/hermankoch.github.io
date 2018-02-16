@@ -78,8 +78,16 @@ body {
 .LivesTouched
 {
    text-align: center;
-   font-size: 40px;
-   font-weight: 450;
+   font-size: 60px;
+   font-weight: 550;
+   margin: 0;
+   color: #fff;
+}
+.LivesTouched2
+{
+   text-align: center;
+   font-size: 30px;
+   font-weight: 350;
    margin: 0;
    color: #fff;
 }
