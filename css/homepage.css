@@ -75,3 +75,11 @@ body {
     0 3px 0 #ff0000,
     0 -3px 0 #ff0000; /* Terminate with a semi-colon */
 }
+.LivesTouched
+{
+   text-align: center;
+   font-size: 40px;
+   font-weight: 450;
+   margin: 0;
+   color: #fff;
+}
