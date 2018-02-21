@@ -96,6 +96,17 @@ body {
      0 -2px 0 #191919;
 }
 
+.previousP {
+  text-align: center;  
+  display: flex;
+  align-items: center;  
+  background-image: url('../css/image4.jpg'); 
+  background-size: cover;      
+  color: #ffffff;
+  height: 400px;    
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
 .OutlineText {
    /*
     font: Tahoma, Geneva, sans-serif;
