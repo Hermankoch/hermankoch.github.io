@@ -49,9 +49,9 @@ body {
     
 }
 .jumbotronProjects {
-  text-align: center;  
+  text-align: left;  
   display: flex;
-  align-items: center;  
+  align-items: top;  
   background-image: url('../css/image7.jpg'); 
   background-size: cover;      
   color: #ffffff;
