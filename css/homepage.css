@@ -49,7 +49,7 @@ body {
     
 }
 .jumbotronProjects {
-  text-align: center;  
+  text-align: top;  
   display: flex;
   align-items: center;  
   background-image: url('../css/image7.jpg'); 
@@ -59,7 +59,7 @@ body {
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 .jumbotronProjects h2 {
-     text-align: center;
+     text-align: top;
      vertical-align: text-top;
      font-size: 60px;
      font-weight: 700;
@@ -78,7 +78,7 @@ body {
 }
 
  .jumbotronProjects h3 {
-     text-align: center;
+     text-align: top;
      vertical-align: text-top;
      font-size: 30px;
      font-weight: 350;
