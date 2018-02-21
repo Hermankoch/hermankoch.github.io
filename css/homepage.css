@@ -49,7 +49,7 @@ body {
     
 }
 .jumbotronProjects {
-  text-align: left;  
+  text-align: center;  
   display: flex;
   align-items: top;  
   background-image: url('../css/image7.jpg'); 
