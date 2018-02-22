@@ -214,16 +214,16 @@ body {
   cursor: pointer;
   outline: none;
   color: #fff;
-  background-color: #4CAF50;
+  background-color: #5f8fef;
   border: none;
   border-radius: 15px;
   box-shadow: 0 5px #999;
 }
 
-.buttonPay:hover {background-color: #3e8e41}
+.buttonPay:hover {background-color: #303c93}
 
 .buttonPay:active {
-  background-color: #3e8e41;
+  background-color: #303c93;
   box-shadow: 0 3px #666;
   transform: translateY(2px);
 }
