@@ -158,75 +158,7 @@ body {
    color: #fff;
 }
 
-.sosial-links a{
-   	text-align: center;
-	float: left;
-	width: 45px;
-	height: 45px;
-	border: 1px solid #909090;
-	border-radius: 100%;
-	margin-right: 7px; 
-	color: #fff;
 
-} 
-.sosial-links a i{
-	font-size: 20px;
-    	line-height: 38px;
-	color: red;
-}
-.sosial-links2 a{
-   	text-align: center;
-	float: left;
-	width: 50px;
-	height: 50px;
-	border: 1px solid #909090;
-	border-radius: 100%;
-	margin-right: 7px; 
-	color: #fff;
-
-} 
-.sosial-links2 a i{
-	font-size: 30px;
-    	line-height: 48px;
-	color: red;
-}
-
-.contact-btn a {
-  font: bold 20px Arial;
-  text-decoration: none;
-  background-color: #191919;
-  color: #fff;
-  padding: 2px 6px 2px 6px;
-  border-top: 1px solid #191919;
-  border-right: 1px solid #191919;
-  border-bottom: 1px solid #191919;
-  border-left: 1px solid #191919;
-}
-
-.contact-btn a:active {
-  top: 2px;
-}
-
-.buttonPay {
-  padding: 2px 4px;
-  font-size: 24px;
-  text-align: center;
-  cursor: pointer;
-  outline: none;
-  color: #fff;
-  background-color: #5f8fef;
-  border: none;
-  border-radius: 15px;
-  box-shadow: 0 5px #999;
-}
-
-.buttonPay:hover {background-color: #303c93}
-
-.buttonPay:active {
-  background-color: #303c93;
-  box-shadow: 0 3px #666;
-  transform: translateY(2px);
-}
 
 
 
