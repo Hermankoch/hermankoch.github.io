@@ -32,16 +32,17 @@
 }
 
 .contact-btn a {
-  font: bold 20px Arial;  
+  font: bold 20px Arial;
+  text-decoration: none;	
   background-color: #191919;
   color: #fff;
   cursor: pointer;
   outline: none;	
   padding: 4px 8px 4px 8px;
-  border-top: 1px solid #191919;
-  border-right: 1px solid #191919;
-  border-bottom: 1px solid #191919;
-  border-left: 1px solid #191919;
+  border-top: 2px solid #191919;
+  border-right: 2px solid #191919;
+  border-bottom: 2px solid #191919;
+  border-left: 2px solid #191919;
 }
 .contact-btn a:hover {background-color: black}
 
