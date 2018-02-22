@@ -208,7 +208,7 @@ body {
 }
 
 .buttonPay {
-  padding: 15px 25px;
+  padding: 2px 4px;
   font-size: 24px;
   text-align: center;
   cursor: pointer;
@@ -217,7 +217,7 @@ body {
   background-color: #4CAF50;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 9px #999;
+  box-shadow: 0 5px #999;
 }
 
 .buttonPay:hover {background-color: #3e8e41}
