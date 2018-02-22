@@ -42,10 +42,11 @@
   border-bottom: 1px solid #191919;
   border-left: 1px solid #191919;
 }
+.contact-btn a:hover {background-color: black}
 
 .contact-btn a:active {
-  top: 2px;
-}
+  background-color: black;	
+  }
 
 .buttonPay {
   padding: 2px 4px;
